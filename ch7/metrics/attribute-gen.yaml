@@ -32,7 +32,7 @@ spec:
                   {
                     "attributes": [
                       {
-                        "output_attribute": "istio_operationId",
+                        "output_attribute": "istio_operation_id",
                         "match": [
                          {
                            "value": "getitems",
