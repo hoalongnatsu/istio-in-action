@@ -2,7 +2,6 @@ apiVersion: networking.istio.io/v1alpha3
 kind: EnvoyFilter
 metadata:
   name: attribute-gen-example
-  namespace: istio-action
 spec:
   configPatches:
   ## Sidecar Outbound 
