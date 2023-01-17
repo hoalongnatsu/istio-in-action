@@ -11,4 +11,4 @@ spec:
               metrics:
               - name: requests_total
                 dimensions:
-                  upstream_operation: istio_operation_id
+                  upstream_operation: istio_operationId
